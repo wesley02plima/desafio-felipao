@@ -13,7 +13,7 @@ function calcule(victories,defeats) {
 }
 
 if (rankedBalance < 10) {
-     rank = "Ferro";}
+     rank = "Iron";}
     else if (rankedBalance >=11 && rankedBalance <=20){
             rank = "Bronze";}
     else if (rankedBalance >=21 && rankedBalance <=50){
